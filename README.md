@@ -5,6 +5,8 @@ open URL https://localhost:5001/swagger/index.html
 
 ![image](https://user-images.githubusercontent.com/83942480/117620783-55d60c00-b160-11eb-90be-e54d85bafda3.png)
 
+Click on each api request to try it out
+
 Time spent of Design analyses : 30 minutes
 Time spent on implementing  api : 120 minutes
 Time spend on manual testing : 30 minutes
